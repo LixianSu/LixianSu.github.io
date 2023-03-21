@@ -1,4 +1,4 @@
-# doob
+# Mypage_Template
 
 ## Project setup
 ```
