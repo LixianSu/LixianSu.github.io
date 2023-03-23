@@ -53,4 +53,4 @@ Jiang, Z., Raghavan, S. V., Hur, J., Sun, Y., Liong, S.-Y., Nguyen, V. Q., & Van
 -->
 
 ## For more information
-More info about Lixian Su can be found in [CV](https://lixiansu.github.io/cv/) or [downloaded CV](http://https://lixiansu.github.io//files/CV-SU_Lixian_PAGE.pdf).
+More info about Lixian Su can be found in [CV](https://lixiansu.github.io/cv/) or [downloaded CV](http://lixiansu.github.io/files/CV-SU_Lixian_PAGE.pdf).
