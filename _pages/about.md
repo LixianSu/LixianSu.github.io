@@ -8,7 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-This is Lixian Su's personal homepage. Please also refer to my [homepage@UNSW](https://research.unsw.edu.au/people/dr-ze-jiang). 
+## Education Background
+<b>Master’s degree</b>
+* [National University of Singapore (NUS)](https://fass.nus.edu.sg/geog/). (2021.08-2022.08)
+** Faculty of Arts and Social Science
+** Major: Applied GIS
+
+<b>Bachelor’s degree</b>
+* [South China Normal University (SCNU)](https://www.scnu.edu.cn/). (2016.09-2020.06)
+** School of Geographic Science
+** Major: Geographic Information Science
+
 
 ## A short introduction
 Lixian Su is a researcher from the Water Research Centre at UNSW who specializes in the fascinating field of hydro-climatology. His research is centered on understanding the impact of climate change on the water cycle, specifically investigating the effects of global warming on drought and floods. Ze received his PhD in Water Resource Engineering from UNSW, where he developed an incredibly cool method known as Wavelet System Prediction (WASP), capable of predicting sustained hydro-climate changes. Ze's academic journey started with a B.Eng in Environmental Engineering from Hohai University, China. He then pursued a Joint M.Sc in "EuroAquae - HydroInformatics and Water Management" under the partnership of five prestigious European universities. Before relocating to Australia, Ze worked at the Tropical Marine Science Institute of the National University of Singapore, where he contributed to hydrological and crop modeling for two years.
