@@ -10,14 +10,14 @@ redirect_from:
 
 ## Education Background
 <b>Master’s degree</b>
-* [National University of Singapore (NUS)](https://fass.nus.edu.sg/geog/). (2021.08-2022.08)
-** Faculty of Arts and Social Science
-** Major: Applied GIS
+### [National University of Singapore (NUS)](https://fass.nus.edu.sg/geog/). (2021.08-2022.08)
+* Faculty of Arts and Social Science
+* Major: Applied GIS
 
 <b>Bachelor’s degree</b>
-* [South China Normal University (SCNU)](https://www.scnu.edu.cn/). (2016.09-2020.06)
-** School of Geographic Science
-** Major: Geographic Information Science
+### [South China Normal University (SCNU)](https://www.scnu.edu.cn/). (2016.09-2020.06)
+* School of Geographic Science
+* Major: Geographic Information Science
 
 
 ## A short introduction
