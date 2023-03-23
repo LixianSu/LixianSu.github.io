@@ -19,10 +19,14 @@ redirect_from:
 * School of Geographic Science
 * Major: Geographic Information Science
 
+## Academic Appointment
+<b>Research Assistant</b>
+### [National University of Singapore (NUS)](https://fass.nus.edu.sg/geog/). (2022.10-2023.06)
+* Geography Department, Faculty of Arts and Social Science
 
 ## A short introduction
 Lixian Su is a promising researcher in the field of Environmental Health and Geospatial Analysis. He holds a Bachelor's degree in Environmental Engineering from South China Normal University and a Master's degree in Hydroinformatics and Water Management from the National University of Singapore. Currently, he has been accepted into the Ph.D. program at the Chinese University of Hong Kong. Lixian's research interests primarily revolve around Spatial Modeling Analysis, Mobile Sensing, and Geospatial Big Data, with a focus on understanding the impact of environmental changes on human health. Prior to his Ph.D. studies, Lixian worked as a research assistant at the Geography department of the National University of Singapore, where he gained valuable experience in Geospatial analysis.
-
+<!--
 <b>Research Highlights:</b>
 * Development of [spectral transformation](https://doi.org/10.1029/2019WR026962) and its [application](https://doi.org/10.1016/j.jhydrol.2021.126816) in hydro-climatology
 * An [open-source tool](https://cran.r-project.org/web/packages/WASP/index.html) for improved system modelling: [Wavelet System Prediction (WASP)](https://doi.org/10.1016/j.envsoft.2020.104907)
@@ -46,6 +50,7 @@ Jiang, Z., Sharma, A., & Johnson, F. (2020). Refining Predictor Spectral Represe
 Jiang, Z., Sharma, A., & Johnson, F. (2019). Assessing the sensitivity of hydro-climatological change detection methods to model uncertainty and bias. *Advances in Water Resources*, 134, 103430. [link](https://doi.org/10.1016/j.advwatres.2019.103430)
 
 Jiang, Z., Raghavan, S. V., Hur, J., Sun, Y., Liong, S.-Y., Nguyen, V. Q., & Van Pham Dang, T. (2019). Future changes in rice yields over the Mekong River Delta due to climate change-Alarming or alerting? *Theoretical and Applied Climatology*, 137(1), 545-555. [link](https://doi.org/10.1007/s00704-018-2617-z)
+-->
 
 ## For more information
-More info about Ze Jiang can be found in [CV](https://zejiang-unsw.github.io/cv/) or [downloaded CV](http://zejiang-unsw.github.io/files/CV_ZeJIANG.pdf).
+More info about Lixian Su can be found in [CV](https://lixiansu.github.io/cv/) or [downloaded CV](http://https://lixiansu.github.io//files/CV-SU_Lixian_PAGE.pdf).
