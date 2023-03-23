@@ -26,6 +26,8 @@ redirect_from:
 
 ## A short introduction
 Lixian Su is a promising researcher in the field of Environmental Health and Geospatial Analysis. He holds a Bachelor's degree in Environmental Engineering from South China Normal University and a Master's degree in Hydroinformatics and Water Management from the National University of Singapore. Currently, he has been accepted into the Ph.D. program at the Chinese University of Hong Kong. Lixian's research interests primarily revolve around Spatial Modeling Analysis, Mobile Sensing, and Geospatial Big Data, with a focus on understanding the impact of environmental changes on human health. Prior to his Ph.D. studies, Lixian worked as a research assistant at the Geography department of the National University of Singapore, where he gained valuable experience in Geospatial analysis.
+
+[^_^]:
 <!--
 <b>Research Highlights:</b>
 * Development of [spectral transformation](https://doi.org/10.1029/2019WR026962) and its [application](https://doi.org/10.1016/j.jhydrol.2021.126816) in hydro-climatology
