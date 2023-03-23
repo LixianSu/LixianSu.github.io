@@ -5,6 +5,7 @@ permalink: /people/
 author_profile: true
 ---
 
+<div style="display: none">
 {% include base_path %}
 
 Hydro-Meteo-Envir Group (HME@EDU) is part of the [Team]() of the [School](), a research and service center at the [University]().
@@ -30,4 +31,4 @@ Collaborators
 <hr> 
 Alumni
 ======
-
+</div>
