@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/2020-12-15-talk-The 1st Workshop of Asian Young Geographers
 venue: "Online"
 date: 2021-12-17
-location: "San Francisco, CA, USA"
+location: "Singapore， Singapore"
 ---
 
 Recommended citation: Su Lixian, Wang Haoran, He Zhiyin, Liao Nan, Liu Zhaoyin, Luo Wei, Bus service adjustment under the drivers'  infection outbreak in Singapore. [Link](http://www.aga-ygwg.com/#/Events/2021/1) [Download PPT](http://LixianSu.github.io/files/The First Asian Young Geographers Workshop Held Online.pptx) [Video](https://www.youtube.com/watch?v=FBDEw_99zzM)
