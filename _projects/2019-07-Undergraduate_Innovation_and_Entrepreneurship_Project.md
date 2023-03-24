@@ -2,7 +2,7 @@
 title: "Research on residential care services and nursing staff in urban communities based on spatial accessibility: Taking Guangzhou’s old city as an example"
 excerpt: "Undergraduate Innovation and Entrepreneurship Project"
 collection: projects
-date: 2019-07
+date: 2019-07-01
 ---
 
 ## Research on residential care services and nursing staff in urban communities based on spatial accessibility: Taking Guangzhou’s old city as an example, Undergraduate Innovation and Entrepreneurship Project.
