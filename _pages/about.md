@@ -38,4 +38,4 @@ Jiang, Z., Raghavan, S. V., Hur, J., Sun, Y., Liong, S.-Y., Nguyen, V. Q., & Van
 </div>
 
 ## For more information
-More info about Ze Jiang can be found in [CV](https://LixianSu.github.io/cv/) or [downloaded CV](http://LixianSu.github.io/files/CV_LixianSu.pdf).
+More info about Lixian Su can be found in [CV](https://LixianSu.github.io/cv/) or [downloaded CV](http://LixianSu.github.io/files/CV_LixianSu.pdf).
