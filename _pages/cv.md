@@ -13,7 +13,7 @@ Download [CV](http://LixianSu.github.io/files/CV_LixianSu.pdf)
 
 Education
 ======
-* M.Sc. in Applied GIS, National University of Singapore, 2022
+* M.Sc. in Applied GIS, National University of Singapore, Singapore, Singapore, 2022
 * B.S. in Geographic Information Science, South China Normal University, Guangzhou, China, 2020
 
 Research Interests
