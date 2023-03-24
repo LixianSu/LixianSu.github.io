@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-This is Ze Jiang's personal homepage. Please also refer to my [homepage@UNSW](https://research.unsw.edu.au/people/dr-ze-jiang). 
-
 ## A short introduction
-Ze Jiang is a researcher from the Water Research Centre at UNSW who specializes in the fascinating field of hydro-climatology. His research is centered on understanding the impact of climate change on the water cycle, specifically investigating the effects of global warming on drought and floods. Ze received his PhD in Water Resource Engineering from UNSW, where he developed an incredibly cool method known as Wavelet System Prediction (WASP), capable of predicting sustained hydro-climate changes. Ze's academic journey started with a B.Eng in Environmental Engineering from Hohai University, China. He then pursued a Joint M.Sc in "EuroAquae - HydroInformatics and Water Management" under the partnership of five prestigious European universities. Before relocating to Australia, Ze worked at the Tropical Marine Science Institute of the National University of Singapore, where he contributed to hydrological and crop modeling for two years.
+Lixian Su is a promising researcher in the field of Environmental Health and Geospatial Analysis. He holds a Bachelor's degree in Geographic Information Science from South China Normal University and a Master's degree in Applied GIS from the National University of Singapore. Currently, he has been accepted into the Ph.D. program at the Chinese University of Hong Kong. Lixian's research interests primarily revolve around utilizing Spatial Modeling Analysis, Mobile Sensing, Geospatial Big Data, and GeoAI, with a focus on understanding the impact of environmental changes on human health. Prior to his Ph.D. studies, Lixian worked as a research assistant at the Geography department of the National University of Singapore, where he gained valuable experience in Geospatial analysis.
 
 <b>Research Highlights:</b>
 * Development of [spectral transformation](https://doi.org/10.1029/2019WR026962) and its [application](https://doi.org/10.1016/j.jhydrol.2021.126816) in hydro-climatology
