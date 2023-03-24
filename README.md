@@ -2,7 +2,7 @@
 This is Lixian Su's personal [homepage](https://.github.io/).
 
 ## A short introduction
-Hello, I am a promising researcher in the field of Environmental Health and Geospatial Analysis. I hold a Bachelor's degree in Geographic Information Science from South China Normal University and a Master's degree in Applied GIS from the National University of Singapore. Currently, I have been accepted into the Ph.D. program at the Chinese University of Hong Kong.
+I am a promising researcher in the field of Environmental Health and Geospatial Analysis. I hold a Bachelor's degree in Geographic Information Science from South China Normal University and a Master's degree in Applied GIS from the National University of Singapore. Currently, I have been accepted into the Ph.D. program at the Chinese University of Hong Kong.
 
 My research interests primarily revolve around utilizing Spatial Modeling Analysis, Mobile Sensing, Geospatial Big Data, and GeoAI, with a focus on understanding the impact of environmental changes on human health. Prior to my Ph.D. studies, I worked as a research assistant at the Geography department of the National University of Singapore, where I gained valuable experience in Geospatial analysis. I am passionate about exploring the relationship between environmental changes and human health and identifying ways to mitigate the negative impact on society.
 
