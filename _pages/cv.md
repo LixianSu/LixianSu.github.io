@@ -88,8 +88,8 @@ Skills & Expertise
 ======
 * National Computer Rank Examination-Level 2 (Python) 
 * College Computer Test-Level 2 (Access database)
-* Programming Skills: R, C/C++, JavaScript, and Python in both Unix and Windows systems.
-* Rich experience in modeling and GIS, using MIKE, SWMM, DSSAT, and QGIS.
+* Programming Skills: R, C/C++, JavaScript, and Python in both Linux and Windows systems.
+* Rich experience in modeling and GIS.
 
 <div style="display: none">
 Service and leadership
