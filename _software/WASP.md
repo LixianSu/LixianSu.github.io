@@ -24,10 +24,10 @@ Suggest:
 
 ## Installation
 
-You can install the package via devtools from [GitHub](https://github.com/zejiang-unsw/WASP) with:
+You can install the package via devtools from [GitHub](https://github.com/LixianSu/WASP) with:
 
 ``` r
-devtools::install_github("zejiang-unsw/WASP", dependencies = TRUE)
+devtools::install_github("LixianSu/WASP", dependencies = TRUE)
 ```
 
 or via [CRAN](https://cran.r-project.org/web/packages/WASP/index.html) with: 
@@ -38,7 +38,7 @@ install.packages("WASP")
 
 # Matlab toolbox
 
-Download [link](https://github.com/zejiang-unsw/WASP_matlab)
+Download [link](https://github.com/LixianSu/WASP_matlab)
 
 
 # Citation

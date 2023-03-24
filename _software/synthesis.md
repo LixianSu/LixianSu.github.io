@@ -24,10 +24,10 @@ You can install the package via [CRAN](https://cran.r-project.org/web/packages/s
 install.packages("synthesis")
 ```
 
-or via devtools from [GitHub](https://github.com/zejiang-unsw/synthesis) for the development version:
+or via devtools from [GitHub](https://github.com/LixianSu/synthesis) for the development version:
 
 ``` r
-devtools::install_github("zejiang-unsw/synthesis")
+devtools::install_github("LixianSu/synthesis")
 ```
 
 ## Citation
