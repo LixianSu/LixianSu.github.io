@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download [CV](http://LixianSu.github.io/files/CV_LixianSu.pdf)
+My [Curriculum Vitae](http://LixianSu.github.io/files/CV_LixianSu.pdf)
 ======
 
 Education
