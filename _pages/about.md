@@ -11,21 +11,21 @@ redirect_from:
 ## Education Background
 **Master’s degree**<br>
 **[National University of Singapore (NUS)](https://fass.nus.edu.sg/geog/). (2021.08-2022.08)**<br>
--------------------------------------------------------------------
-* Faculty of Arts and Social Science
-* Major: Applied GIS
+---------------------------------------------------------------------
++ Faculty of Arts and Social Science
++ Major: Applied GIS
 
 **Bachelor’s degree**<br>
 **[South China Normal University (SCNU)](https://www.scnu.edu.cn/). (2016.09-2020.06)**<br>
--------------------------------------------------------------------
-* School of Geographic Science
-* Major: Geographic Information Science
+---------------------------------------------------------------------
++ School of Geographic Science
++ Major: Geographic Information Science
 
 ## Academic Appointment
 **Research Assistant**<br>
 **[National University of Singapore (NUS)](https://fass.nus.edu.sg/geog/). (2022.10-2023.06)**<br>
--------------------------------------------------------------------
-* Geography Department, Faculty of Arts and Social Science
+---------------------------------------------------------------------
++ Geography Department, Faculty of Arts and Social Science
 
 ## A short introduction
 Lixian Su is a promising researcher in the field of Environmental Health and Geospatial Analysis. He holds a Bachelor's degree in Geographic Information Science from South China Normal University and a Master's degree in Applied GIS from the National University of Singapore. Currently, he has been accepted into the Ph.D. program at the Chinese University of Hong Kong. Lixian's research interests primarily revolve around utilizing Spatial Modeling Analysis, Mobile Sensing, Geospatial Big Data, and GeoAI, with a focus on understanding the impact of environmental changes on human health. Prior to his Ph.D. studies, Lixian worked as a research assistant at the Geography department of the National University of Singapore, where he gained valuable experience in Geospatial analysis.
