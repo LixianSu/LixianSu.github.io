@@ -82,7 +82,7 @@ Teaching
 
 Languages
 ======
-Mandarin(Native), Cantonese(Native), English(Fluent), Korea(Basic)
+Mandarin(Native), Cantonese(Native), English(Fluent), Korean(Basic)
 
 Skills & Expertise 
 ======
