@@ -2,7 +2,7 @@
 title: "Study on the benefit assessment and optimal layout strategy of urban regenerated green space"
 collection: talks
 type: "Talk"
-permalink: /talks/2019-07-15-talk-Chengyuan Model Design Competition for Urban Planning and Decision-making
+permalink: /talks/2019-07-15-talk-Chengyuan_Model_Design_Competition_for_Urban_Planning_and_Decision-making
 venue: "Beijing"
 date: 2019-07-15
 location: "Beijing, China"
