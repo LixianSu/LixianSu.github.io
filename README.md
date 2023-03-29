@@ -1,5 +1,5 @@
 # Lixian Su
-This is Lixian Su's personal [homepage](https://.github.io/).
+This is Lixian Su's personal [homepage](https://lixiansu.github.io/).
 
 ## A short introduction
 I am a promising researcher in the field of Environmental Health and Geospatial Analysis. I hold a Bachelor's degree in Geographic Information Science from South China Normal University and a Master's degree in Applied GIS from the National University of Singapore. Currently, I have been accepted into the Ph.D. program at the Chinese University of Hong Kong.
