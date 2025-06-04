@@ -2,7 +2,7 @@
 title: "Bus service adjustment under the drivers’ infection outbreak in Singapore"
 collection: talks
 type: "Talk"
-permalink: /talks/2020-12-15-talk-The_1st_Workshop_of_Asian_Young_Geographers
+permalink: /talks/2021-12-17-talk-The_1st_Workshop_of_Asian_Young_Geographers
 venue: "Online"
 date: 2021-12-17
 location: "Singapore, Singapore"
